@@ -1,7 +1,7 @@
 ![logo](https://github.com/sundusfirdous/sundusfirdous/blob/main/Software%20Test%20Engineer.png)
 <h1 align="center">Hi 👋, I'm Sundus Firdous</h1>
 <h3 align="center">A passionate Software Test Engineer from India</h3>
-<img align ="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40jyotibalodhi%2Fprogrammer-or-not-345df8ab4dbc&psig=AOvVaw0Me2jspGv9yNTHnw-8Ydi2&ust=1710437536069000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCPy7_i8YQDFQAAAAAdAAAAABAR">
+<img align ="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundusfirdous&label=Profile%20views&color=0e75b6&style=flat" alt="sundusfirdous" /> </p>
 
 - 🔭 I’m currently working on [OrangeHRM](https://github.com/sundusfirdous/Live_Projects)
