@@ -1,4 +1,4 @@
-![logo](https://github.com/sundusfirdous/sundus-firdous/blob/main/Software%20Test%20Engineer.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Sundus Firdous</h1>
 <h3 align="center">A passionate Software Test Engineer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Nn_lXEJMpY0bBzdFBO21F15CaSvSFDlNgcsdlwaQbw&s">
