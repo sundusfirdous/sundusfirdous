@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **sundusfirdous687@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GEcb6s6GFIxV1YE91rnBUjI8FxZ59mLD/view?usp=sharing](https://drive.google.com/file/d/1GEcb6s6GFIxV1YE91rnBUjI8FxZ59mLD/view?usp=sharing)
-
 - ⚡ Fun fact **I am a nerd🧐**
 
 <h3 align="left">Connect with me:</h3>
