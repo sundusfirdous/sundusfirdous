@@ -4,7 +4,7 @@
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundusfirdous&label=Profile%20views&color=0e75b6&style=flat" alt="sundusfirdous" /> </p>
 
-- 🔭 I’m currently working on [Data Scientist Projects](https://github.com/sundusfirdous/)
+- 🔭 I’m currently working on [Automation Projects](https://github.com/sundusfirdous/)
 
 - 🌱 I’m currently learning **AI &ML**
 
